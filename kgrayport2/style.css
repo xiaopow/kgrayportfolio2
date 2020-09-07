@@ -166,3 +166,6 @@ a{
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
   color: #fff;
 }
+.carousel {
+  margin: 100px 50px 50px;
+}
